@@ -1,0 +1,4 @@
+name: CustomConfigAPI
+version: '${version}'
+main: plugins.customconfigapi.CustomConfigAPI
+api-version: '1.20'
